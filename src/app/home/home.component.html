@@ -1,0 +1,23 @@
+
+
+<!-- Header carousel -->
+<header-carousel id="home"></header-carousel>
+
+<!--
+<button type="button" (click)="goToMenu()" class="btn btn-menu text-white btn-activity btn-header d-none d-sm-none d-md-block">
+  <span class="fa fa-chevron-circle-down btn-header-arrow"></span>
+</button>-->
+
+
+<!-- About  -->
+<about-restaurant id="about-restaurant"></about-restaurant>
+
+<div class="container-fluid" id="map-data">
+	<div class="row">
+		<div class="col-md-12 col-lg-12  px-0">
+			<agm-map [latitude]="lat" [longitude]="lng" [fullscreenControl]='true' [mapTypeControl]='true' [zoom]="12">
+				<agm-marker [latitude]="lat" [longitude]="lng" [markerDraggable]="true"></agm-marker>
+			</agm-map>
+		</div>
+	</div>
+</div>
