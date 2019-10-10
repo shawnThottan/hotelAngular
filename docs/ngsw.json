@@ -1,0 +1,87 @@
+{
+  "configVersion": 1,
+  "index": "https://omegashawn.github.io/hotelAngular/docs/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://omegashawn.github.io/hotelAngular/docs/favicon.ico",
+        "https://omegashawn.github.io/hotelAngular/docs/index.html",
+        "https://omegashawn.github.io/hotelAngular/docs/main.ac8611e17818dfb9c1f3.js",
+        "https://omegashawn.github.io/hotelAngular/docs/polyfills.e3633a42d1123afc5fc9.js",
+        "https://omegashawn.github.io/hotelAngular/docs/runtime.a66f828dca56eeb90e02.js",
+        "https://omegashawn.github.io/hotelAngular/docs/scripts.069cce74f9c8f7df78ea.js",
+        "https://omegashawn.github.io/hotelAngular/docs/styles.79ca0273db7f2cd2a5d0.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://omegashawn.github.io/hotelAngular/docs/assets/icons/icon-128x128.png",
+        "https://omegashawn.github.io/hotelAngular/docs/assets/icons/icon-144x144.png",
+        "https://omegashawn.github.io/hotelAngular/docs/assets/icons/icon-152x152.png",
+        "https://omegashawn.github.io/hotelAngular/docs/assets/icons/icon-192x192.png",
+        "https://omegashawn.github.io/hotelAngular/docs/assets/icons/icon-384x384.png",
+        "https://omegashawn.github.io/hotelAngular/docs/assets/icons/icon-512x512.png",
+        "https://omegashawn.github.io/hotelAngular/docs/assets/icons/icon-72x72.png",
+        "https://omegashawn.github.io/hotelAngular/docs/assets/icons/icon-96x96.png",
+        "https://omegashawn.github.io/hotelAngular/docs/assets/images/floating.jpg",
+        "https://omegashawn.github.io/hotelAngular/docs/assets/images/foods.jpg",
+        "https://omegashawn.github.io/hotelAngular/docs/assets/images/hotel_logo.png",
+        "https://omegashawn.github.io/hotelAngular/docs/assets/images/palaisdaan.jpg",
+        "https://omegashawn.github.io/hotelAngular/docs/assets/images/palaisdaan2.jpg",
+        "https://omegashawn.github.io/hotelAngular/docs/assets/images/palaisdaan3.jpg",
+        "https://omegashawn.github.io/hotelAngular/docs/assets/styles/bootstrap.min.css"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://omegashawn.github.io/hotelAngular/docs/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://omegashawn.github.io/hotelAngular/docs/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://omegashawn.github.io/hotelAngular/docs/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://omegashawn.github.io/hotelAngular/docs/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://omegashawn.github.io/hotelAngular/docs/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://omegashawn.github.io/hotelAngular/docs/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://omegashawn.github.io/hotelAngular/docs/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://omegashawn.github.io/hotelAngular/docs/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://omegashawn.github.io/hotelAngular/docs/assets/images/floating.jpg": "a19462ac09b15f907a4e9a76940e5cc69dd3188f",
+    "https://omegashawn.github.io/hotelAngular/docs/assets/images/foods.jpg": "f4bf1bb70c7d6bcbd6f873fa2f88911a0e1fda6f",
+    "https://omegashawn.github.io/hotelAngular/docs/assets/images/hotel_logo.png": "11814709864b2504d76580e591f28bd5079b9fec",
+    "https://omegashawn.github.io/hotelAngular/docs/assets/images/palaisdaan.jpg": "9b858aae4ac2616e13100af2a3aa83215111c234",
+    "https://omegashawn.github.io/hotelAngular/docs/assets/images/palaisdaan2.jpg": "5d6be0b3e047fe17be10f20e5775ae1f3b98b94b",
+    "https://omegashawn.github.io/hotelAngular/docs/assets/images/palaisdaan3.jpg": "26e7161af5ce96f493cf1cbaceacdcfbf776434d",
+    "https://omegashawn.github.io/hotelAngular/docs/assets/styles/bootstrap.min.css": "d2bf585400e383e3ab00838ec3821f5dd90e2cac",
+    "https://omegashawn.github.io/hotelAngular/docs/favicon.ico": "119f711a7bfa9131dd6fded73482a5946475481f",
+    "https://omegashawn.github.io/hotelAngular/docs/index.html": "4790f06756543fb1e37b0d10d85b63658eb42fdf",
+    "https://omegashawn.github.io/hotelAngular/docs/main.ac8611e17818dfb9c1f3.js": "3b60025e9f492e37ea4f7911c2357ddc85c4d442",
+    "https://omegashawn.github.io/hotelAngular/docs/polyfills.e3633a42d1123afc5fc9.js": "5261a4729f780dd900641be94bd321182959641a",
+    "https://omegashawn.github.io/hotelAngular/docs/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "https://omegashawn.github.io/hotelAngular/docs/scripts.069cce74f9c8f7df78ea.js": "664b2da78d098788165c50f691d5467b23082af5",
+    "https://omegashawn.github.io/hotelAngular/docs/styles.79ca0273db7f2cd2a5d0.css": "1b8b58aee98134ff097d25041ccda376bd50a5cb"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*\\.[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*\\/.*$"
+    }
+  ]
+}
